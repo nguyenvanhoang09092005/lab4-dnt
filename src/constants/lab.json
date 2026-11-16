@@ -1,0 +1,7 @@
+{
+  "number": 4,
+  "name": "Magic 8 Ball",
+  "accent": "#7040BD",
+  "tagline": "Một câu hỏi, một chút bất ngờ.",
+  "instructions": "Nhập câu hỏi rồi nhấn Enter, chạm quả cầu hoặc Hỏi quả cầu. Chờ lời hồi đáp ngẫu nhiên. Shake Again hỏi lại câu vừa gửi. Có thể hỏi lại từ lịch sử, xóa lịch sử hoặc Reset toàn bộ. Đây là trò chơi giải trí."
+}
